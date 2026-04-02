@@ -1,1 +1,0 @@
-Versão híbrida final: servidor como principal, offline como backup e sincronização automática quando a internet voltar.\n
